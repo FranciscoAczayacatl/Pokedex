@@ -1,4 +1,4 @@
 # Pokedex
 
 netlify:
-https://pokedex-fagg.netlify.app/#/pokedex
+https://pokedex-fagg.netlify.app/
